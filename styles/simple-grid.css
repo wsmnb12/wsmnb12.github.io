@@ -9,6 +9,8 @@
 
 html,
 body {
+  background-color: black;
+  color: green;
   height: 100%;
   width: 100%;
   margin: 0;
@@ -16,13 +18,14 @@ body {
   left: 0;
   top: 0;
   font-size: 100%;
+  object-fit: cover;
 }
 
 /* ROOT FONT STYLES */
 
 * {
-  font-family: 'Lato', Helvetica, sans-serif;
-  color: #333447;
+  font-family: VT323;
+  color: rgb(93, 253, 0);
   line-height: 1.5;
 }
 
@@ -244,7 +247,7 @@ p {
 
 @media only screen and (min-width: 60em) { /* 960px */
   .container {
-    width: 90%;
+    width: 100%;
     margin-top: 1%;
     /* max-width: 60rem; */
   }
