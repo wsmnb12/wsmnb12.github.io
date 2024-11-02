@@ -42,7 +42,7 @@ Enter one of the following commands to navigate the website:
     // Sample image data for commands
     const imageData = {
         "blender": [
-            { src: "images/earth.png", thumbnail: "", description: "(Earth) - Created using Blender v3.5" },
+            { src: "images/Earth.png", thumbnail: "", description: "(Earth) - Created using Blender v3.5" },
             { src: "images/room.jpg", thumbnail: "", description: "(The Room) - Created using Blender v3.5" },
             { src: "images/HeeseungAngle2.png", thumbnail: "", description: "(Heesung) - Created using Blender v3.5" },
             { src: "images/StarTrails.png", thumbnail: "", description: "(Star Gazing) - Created using Blender v3.5 and Adobe Photoshop" },
