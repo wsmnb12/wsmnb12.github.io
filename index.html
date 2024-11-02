@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Art Portfolio Terminal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="loading-container">
+        <div id="loading-bar"></div>
+        <div id="loading-percentage">0%</div>
+    </div>
+
+    <div class="terminal">
+        <div id="output"></div>
+        <div style="display: flex; align-items: center;">
+            <span>></span>
+            <input type="text" id="command-input" placeholder="Type your command here..." />
+            <div id="cursor"></div>
+        </div>
+    </div>
+
+    <div class="crt-line"></div>
+    <div class="crt-line"></div>
+    <div class="crt-line"></div>
+    <div class="crt-line"></div>
+    <div class="crt-line"></div>
+    <div class="crt-line"></div>
+    <div class="crt-line"></div>
+    <div class="crt-line"></div>
+    <div class="crt-line"></div>
+    <div class="crt-line"></div>
+
+
+    <!-- Modal for displaying images and descriptions -->
+    <div id="modal" class="modal">
+        <span class="close-button">&times;</span>
+        <img id="modal-image" class="modal-content" src="" alt="Expanded Art Piece" />
+        <div id="modal-description" class="modal-description"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
