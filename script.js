@@ -56,7 +56,6 @@ Enter one of the following commands to navigate the website:
             { src: "images/glitch.jpg", description: "(Unseen) - Created using Notepad++" },
             { src: "images/frag.jpg", description: "(Fragmented Depression) - Created using Adobe Illustrator, Processing 3" },
             { src: "images/meta.jpg", description: "(Inhuman) - Created using Unreal Engine 5, Processing 3" },
-            { src: "images/bliss.jpg", description: "(Bliss) - Created using Adobe Illustrator" },
             { src: "images/earthman.jpg", description: "(Earth Man) - Created using Adobe Illustrator" },
             { src: "images/drink.jpg", description: "(Drink Away) - Created using Adobe Illustrator" },
             { src: "images/noai.jpg", description: "(Lies) - Created using Adobe Illustrator" },
