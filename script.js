@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Load the sound file
     const sound = new Audio('sound/aeiou.mp3'); // Adjust the path to your sound file as needed
-    const boot = new Audio('sound/apple.mp3');
+    const boot = new Audio('sound/apple (mp3cut.net).mp3');
 
     // ASCII art for "Welcome" and available commands
     const welcomeMessage = `
@@ -101,6 +101,7 @@ Enter one of the following commands to navigate the website:
             terminal.style.display = 'block'; // Show the terminal
             input.focus(); // Focus on the input box
             output.innerHTML += `<pre>${welcomeMessage}</pre>`; // Show welcome message
+            boot.play(); // Play boot-up sound
             
         }
     }, 300); // Increment progress every 300 ms
