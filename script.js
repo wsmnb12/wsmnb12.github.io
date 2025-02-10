@@ -73,7 +73,7 @@ Enter one of the following commands to navigate the website:
             { src: "videos/project_04.mp4", thumbnail: "images/project_04_thumbnail.gif", description: "(Simple Street) - Created using Adobe Animate, Adobe Stock" },
             { src: "videos/project_05.mp4", thumbnail: "images/project_05_thumbnail.gif", description: "(12 Months) - Created using Adobe Premiere Pro, Adobe Stock" },
             { src: "videos/project_06.mp4", thumbnail: "images/project_06_thumbnail.gif", description: "(Sound Design) - Created using Adobe Premiere Pro, Adobe Stock, Freesound" },
-            { src: "videos/VapoCar.mp4", thumbnail: "images/VapoCar.gif", description: "(Vapo Car) - Created using Adobe Premiere Pro, Blender v3.5" },
+            { src: "videos/VapoCar.mp4", thumbnail: "images/car.png", description: "(Vapo Car) - Created using Adobe Premiere Pro, Blender v3.5" },
             { src: "videos/osci.mp4", thumbnail: "images/osci_thumbnailgif.gif", description: "(Osci) - Created using Adobe Premiere Pro, Adobe After Effects, Processing 3" },
         ],
         "clear": [], // No images for home, just return to the main page
