@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Load the sound file
     const sound = new Audio('sound/aeiou.mp3'); // Adjust the path to your sound file as needed
-    const boot = new Audio('sound/apple (mp3cut.net).mp3');
+    const boot = new Audio('sound/apple.mp3');
 
     // ASCII art for "Welcome" and available commands
     const welcomeMessage = `
