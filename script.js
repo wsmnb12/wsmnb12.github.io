@@ -33,7 +33,7 @@ showcased his art at Makerfaire 2024.
 Enter one of the following commands to navigate the website:
 
 - blender                       : View Blender art projects
-- digital                       : View glitch art and digital illustrations
+- digital                       : View glitch art, graphic design, & digital illustrations
 - videos                        : View videos
 - aeiou                         : Play a funny sound
 - clear                         : Clear console 
@@ -50,25 +50,31 @@ Enter one of the following commands to navigate the website:
             { src: "images/RenaldRat(V2.0).png", thumbnail: "", description: "(Renald the Rat) - Created using Blender v4.2" },
         ],
         "digital": [
-            { src: "images/prog.jpg", description: "(Forgotten Past) - Created using Processing 3" },
-            { src: "images/alterlight.jpg", description: "(Alterlight) - Created using Processing 3" },
+            { src: "images/forgot.jpg", description: "(Forgotten Past) - Created using Processing 3" },
+            { src: "images/rooted.png", description: "(Rooted to You) - Created using Adobe Illustrator & Photoshop" },
+            { src: "images/cover.png", description: "(Tunezilla Cover) - Created using Adobe Illustrator & Substance 3D" },
+            { src: "images/proposal.png", description: "(Opposite Attraction) - Created using Adobe Illustrator & Photoshop" },
+            { src: "images/alter.jpg", description: "(Alterlight) - Created using Processing 3" },
             { src: "images/gun.jpg", description: "(Espionage) - Created using Adobe Illustrator" },
-            { src: "images/glitch.jpg", description: "(Unseen) - Created using Notepad++" },
+            { src: "images/movie.jpg", description: "(Rules of the Game Movie Poster) - Created using Adobe Illustrator" },
             { src: "images/frag.jpg", description: "(Fragmented Depression) - Created using Adobe Illustrator, Processing 3" },
             { src: "images/meta.jpg", description: "(Inhuman) - Created using Unreal Engine 5, Processing 3" },
             { src: "images/earthman.jpg", description: "(Earth Man) - Created using Adobe Illustrator" },
             { src: "images/drink.jpg", description: "(Drink Away) - Created using Adobe Illustrator" },
-            { src: "images/noai.jpg", description: "(Lies) - Created using Adobe Illustrator" },
+            { src: "images/roboticinvasion.jpg", description: "(Lies) - Created using Adobe Illustrator" },
             { src: "images/shirt.jpg", description: "(Perseverance) - Created using Adobe Illustrator" },
             { src: "images/hyp.jpg", description: "(Hypoxic) - Created using Adobe Illustrator, Processing 3" },
+            { src: "images/svic.png", description: "(SVIC Info Session) - Created using Adobe Illustrator"},
+            { src: "images/Web Design (Vaporwave).png", description: "(SiliconXHacks Homepage prototype) - Created using Adobe Illustrator & Photoshop"},
+            { src: "images/ZinnStarterFlyer.png", description: "(Zinnstarter Flyer) - Created using Adobe Illustrator & Photoshop"},
+
         ],
         "videos": [
             { src: "videos/project_04.mp4", thumbnail: "images/project_04_thumbnail.gif", description: "(Simple Street) - Created using Adobe Animate, Adobe Stock" },
             { src: "videos/project_05.mp4", thumbnail: "images/project_05_thumbnail.gif", description: "(12 Months) - Created using Adobe Premiere Pro, Adobe Stock" },
             { src: "videos/project_06.mp4", thumbnail: "images/project_06_thumbnail.gif", description: "(Sound Design) - Created using Adobe Premiere Pro, Adobe Stock, Freesound" },
-            { src: "videos/VapoCar.mp4", thumbnail: "images/idea_thumbnail.gif", description: "(Vapo Car) - Created using Adobe Premiere Pro, Blender v3.5" },
+            { src: "videos/VapoCar.mp4", thumbnail: "images/VapoCar.gif", description: "(Vapo Car) - Created using Adobe Premiere Pro, Blender v3.5" },
             { src: "videos/osci.mp4", thumbnail: "images/osci_thumbnailgif.gif", description: "(Osci) - Created using Adobe Premiere Pro, Adobe After Effects, Processing 3" },
-            { src: "videos/me.mp4", thumbnail: "images/ryan_thumbnail.gif", description: "(Eat the Cookies) - Created using Adobe Premiere Pro, IPhone 12 Pro Max" },
         ],
         "clear": [], // No images for home, just return to the main page
     };
